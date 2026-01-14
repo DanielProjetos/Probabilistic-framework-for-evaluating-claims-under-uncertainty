@@ -1,0 +1,102 @@
+# VerifyNews v1.62 — Release Notes
+
+## Visão geral
+
+Esta versão marca a consolidação do **VerifyNews** como uma **implementação operacional estável** de um método de avaliação probabilística de alegações sob incerteza.
+
+O foco do projeto permanece:
+- evitar vereditos binários;
+- explicitar incerteza;
+- operar por critérios qualitativos auditáveis;
+- reduzir arbitrariedade e polarização analítica.
+
+---
+
+## Relação com o framework base (versão Completa)
+
+O VerifyNews v1.62 **deriva diretamente** do framework conceitual:
+
+**Probabilistic Framework for Evaluating Claims Under Uncertainty**
+
+O framework base constitui a **versão Completa**, de natureza:
+- teórica,
+- epistemológica,
+- conceitual.
+
+O VerifyNews v1.62 representa a **camada operacional**, responsável por:
+- traduzir princípios em regras práticas;
+- definir critérios mínimos;
+- estruturar saída, linguagem e ordem de apresentação.
+
+Essa separação é intencional:
+- o framework Completo orienta;
+- o VerifyNews executa.
+
+---
+
+## Principais mudanças e adições
+
+### Estrutura operacional
+- Introdução formal da escala qualitativa:
+  - 🟢 Alta chance de ser verdade  
+  - 🟡 Suspeita ainda não confirmada  
+  - 🔴 Baixa chance de ser verdade
+- Definição explícita da **zona 🟡 como estado padrão**.
+
+### Critérios mínimos
+- Condições cumulativas e alternativas para 🟢, 🟡 e 🔴.
+- Redução de dependência excessiva da intuição do avaliador.
+- Melhoria da reprodutibilidade entre análises.
+
+### Regra central — Hipótese B
+- Mecanismo de controle do sistema:
+  - freio por fraqueza (🔴),
+  - freio por excesso (🟢),
+  - análise plena na zona 🟡.
+
+### Linguagem e forma
+- Proibição explícita de porcentagens.
+- Padronização de expressões para explicitação de chance.
+- Separação clara entre avaliação e julgamento.
+
+### Limitações declaradas
+- O sistema não cria fatos.
+- Não substitui jornalismo ou investigação oficial.
+- Avaliações são revisáveis com novas evidências.
+
+---
+
+## Compatibilidade com licenciamento
+
+O framework base é licenciado sob:
+
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**  
+https://creativecommons.org/licenses/by/4.0/
+
+Esta versão constitui **material adaptado**, conforme permitido pela licença.
+
+### Atribuição
+
+Autor do framework base:  
+**Daniel Oliveira Leal**  
+Engenheiro de software  
+São Paulo – SP  
+Data: 14/06/2026  
+
+O VerifyNews v1.62 introduz:
+- operacionalização,
+- estrutura normativa,
+- ajustes de nomenclatura e forma,
+mantendo fidelidade aos princípios originais.
+
+---
+
+## Notas finais
+
+- “Completa” refere-se à **abrangência conceitual**, não à praticidade.
+- O VerifyNews v1.62 não substitui o framework base; ele o implementa.
+- O projeto permanece aberto a revisão, crítica e evolução.
+
+---
+
+**Status:** versão operacional estável 
