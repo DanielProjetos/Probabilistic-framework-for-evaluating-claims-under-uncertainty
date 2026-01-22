@@ -1,7 +1,14 @@
 # 📊 Comparação com outras abordagens
 
-Existem repositórios que lidam com verificação ou quantificação de incerteza em contextos técnicos (ex.: benchmarking de incerteza para LLMs ou ferramentas de avaliação), mas eles usualmente:
+Existem repositórios que lidam com verificação ou quantificação
+de incerteza em contextos técnicos (ex.: benchmarking de incerteza para LLMs ou ferramentas de avaliação),
+mas eles usualmente:
 tratam quantificação de incerteza matemática no modelo interno,
 ou scoring de veracidade,
 ou Avaliações de hallucination/uncertainty para LLMs.
-Meu repositório não conflita diretamente com essas abordagens — porque o foco é epistemológico e de apresentação, não de implementação algorítmica.
+Meu repositório não conflita diretamente com essas abordagens — porque o
+foco é epistemológico e de apresentação, não de implementação algorítmica.
+
+
+
+“License: UNIFIED AUTHOR LICENSE — see LICENSE.”
