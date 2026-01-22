@@ -5,7 +5,7 @@
 ## A probabilistic alternative to binary fact-checking
 
 ### Author
-Daniel Oliveira Leal & gpt5.2  
+Daniel Oliveira Leal
 Date: 09/01/2026
 
 ---
@@ -145,4 +145,4 @@ This repository is published openly to establish:
 - conceptual authorship,
 - transparent historical record.
 
-
+“License: UNIFIED AUTHOR LICENSE — see LICENSE.”
